@@ -1204,10 +1204,9 @@ input::-moz-focus-inner {
 }
 
 .home-logo img {
-  width: 50px;
-  height: 63px;
+  width: 60px;
+  height: 85px;
 }
-
 
 /* ------------------------------------------------------------------- 
  * ## home content - (_site-layout.scss) 
